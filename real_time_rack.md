@@ -10,7 +10,9 @@ them in your Ruby application.
 
 # Notes
 
-I have given this talk before (Scottish Ruby Conference 2011).
+I have given this talk before:
+* Scottish Ruby Conference 2011, Edinburgh, Scotland
+* Ruby Lugdunum 2011, Lyon, France
 
 I want to give a talk about real time responses and Rack. This involves
 combining streaming and asynchronous events. I feel that this topic is nowhere
