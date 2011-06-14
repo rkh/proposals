@@ -13,3 +13,11 @@ VM. We get all the hard work that went into Rubinius for free and above all,
 can do the heavy lifting in Ruby, everyone's favorite programming language.
 
 As an example we'll use Reak, a Smalltalk implementation running on Rubinius.
+
+# Why?
+
+It is fun to play with the Rubinius VM, which can be done entirely in Ruby.
+This will give the audience a good entry point to work on Rubinius directly
+and thereby strengthen the Ruby eco system. At the same time, the Ruby
+developers get a better insight into Smalltalk, one of the mystical
+forefathers of Ruby most developers don't seem to know that well.
