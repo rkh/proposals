@@ -21,7 +21,7 @@ experimenting, both things I have done intensively. While doing so, I myself
 created a library called async-rack, even though my talk will not be about
 that project, since it is only of use if you already know how to send async
 responses with Rack. The tools and examples demonstrated should easily be
-usable with any Rack-based framework, like Rails and Sinatra.
+usable with any Rack-based framework, like Rails and Sinatra and therefore be of general interest to most Ruby developers.
 
 I will start with a little teaser: A WebSockets live demo.
 
