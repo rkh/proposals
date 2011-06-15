@@ -2,7 +2,7 @@
 
 Ruby is the most flexible language out there, imposing no limitations on the
 developers, giving all the expressiveness possible. Or so we think. But there
-are languages pushing dynamic features, expressiveness far beyond what is
+are languages pushing dynamic features and expressiveness far beyond what is
 possible in Ruby. Some are old, like Lisp and Smalltalk, some are just
 emerging, purely experimental languages, like Ioke or Newspeak. In this talk,
 we will take a look at some of these languages and what they can do what Ruby
