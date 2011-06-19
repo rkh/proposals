@@ -11,6 +11,7 @@ them in your Ruby application.
 # Notes
 
 I have given this talk before:
+
 * Scottish Ruby Conference 2011, Edinburgh, Scotland
 * Ruby Lugdunum 2011, Lyon, France
 
