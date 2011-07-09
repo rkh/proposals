@@ -21,5 +21,5 @@ RubyConf is the perfect occasion, since this is not a web related talk, nor
 does it just present some library, but is a talk for everyone even remotely
 interested in Ruby itself.
 
-I have not given this talk before. Brian Ford (Rubinius) and Charls Nutter
+I have not given this talk before. Brian Ford (Rubinius) and Charles Nutter
 (JRuby) will help me prepare the talk.
