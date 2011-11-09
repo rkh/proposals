@@ -12,10 +12,10 @@ Gave talk at:
 * Scottish Ruby Conf 2011
 * Ruby Lugdunum 2011
 * Rocky Mountain Ruby 2011
+* RubyConf Brazil 2011
 
 Will be giving talk at:
 
-* RubyConf Brazil 2011
 * RubyConf Uruguay 2011
 
 ### Message In A Bottle
@@ -39,8 +39,8 @@ Gave talk at:
 
 ### Beyond Ruby
 
-[proposal](https://github.com/rkh/proposals/blob/master/potential_talks/beyond_ruby.md)
+[proposal](https://github.com/rkh/proposals/blob/master/prepared_talks/beyond_ruby.md)
 
-Will be giving this talk at:
+Gave talk at:
 
 * RubyConf Argentina 2011
