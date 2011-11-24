@@ -1,6 +1,6 @@
 Want me to talk at some event? Drop me a note. Presentation code is on [GitHub](https://github.com/rkh/presentations).
 
-## Talks
+## Feature Talks
 
 ### Real Time Rack
 
@@ -13,14 +13,15 @@ Gave talk at:
 * Ruby Lugdunum 2011
 * Rocky Mountain Ruby 2011
 * RubyConf Brazil 2011
+* RubyConf Uruguay 2011
 
 Will be giving talk at:
 
-* RubyConf Uruguay 2011
+* Rails Club Moscow 2011
 
 ### Message In A Bottle
 
-[proposal](https://github.com/rkh/proposals/blob/master/prepared_talks/method_dispatch.md)
+[proposal](https://github.com/rkh/proposals/blob/master/prepared_talks/method_dispatch.md), [video](http://confreaks.net/videos/680-rubyconf2011-message-in-a-bottle)
 
 Gave talk at:
 
