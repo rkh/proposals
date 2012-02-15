@@ -8,13 +8,6 @@ Still, it is possible to use Server-Sent Events, WebSockets and akin with Rack
 today. This talk will demonstrate the underlying technologies and how to use
 them in your Ruby application.
 
-# Notes
-
-I have given this talk before:
-
-* Scottish Ruby Conference 2011, Edinburgh, Scotland
-* Ruby Lugdunum 2011, Lyon, France
-
 ### Original Notes
 
 I want to give a talk about real time responses and Rack. This involves
