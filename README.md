@@ -14,9 +14,6 @@ Gave talk at:
 * Rocky Mountain Ruby 2011
 * RubyConf Brazil 2011
 * RubyConf Uruguay 2011
-
-Will be giving talk at:
-
 * Rails Club Moscow 2011
 
 ### Message In A Bottle
@@ -45,3 +42,11 @@ Gave talk at:
 Gave talk at:
 
 * RubyConf Argentina 2011
+
+### Sinatra: Past, Present, Future
+
+[proposal](https://github.com/rkh/proposals/blob/master/prepared_talks/sinatra.md)
+
+Gave talke at:
+
+* toster.ru {ruby} 2011
