@@ -1,4 +1,4 @@
-# Message in a bottle
+# Message in a bottle (advanced version)
 
 What does really happen when we call a method? How do the different Ruby
 implementations actually figure out what code to execute? What plumbing is

@@ -1,0 +1,3 @@
+# Fun With Rubinius
+
+You can do a lot of more or less stupid things with Ruby's meta programming capabilities. Even more is possible if large parts of your Ruby implementation are written in Ruby. Let's see what we can do with Rubinius that we can't on MRI. Besides being entertaining to those that like playing around with code, we might also learn something about Rubinius and Ruby in general along the way.

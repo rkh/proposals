@@ -2,6 +2,21 @@ Want me to talk at some event? Drop me a note. Presentation code is on [GitHub](
 
 ## Feature Talks
 
+
+### Beyond Ruby
+
+[proposal](https://github.com/rkh/proposals/blob/master/prepared_talks/beyond_ruby.md)
+
+Gave talk at:
+
+* RubyConf Argentina 2011
+
+### Fun With Rubinius
+
+[proposal](https://github.com/rkh/proposals/blob/master/proposed_talks/fun_with_rubinius.md)
+
+Have not yet given this talk.
+
 ### Real Time Rack
 
 [proposal](https://github.com/rkh/proposals/blob/master/prepared_talks/real_time_rack.md),
@@ -16,7 +31,7 @@ Gave talk at:
 * RubyConf Uruguay 2011
 * Rails Club Moscow 2011
 
-### Message In A Bottle
+### Message In A Bottle (advanced version)
 
 [proposal](https://github.com/rkh/proposals/blob/master/prepared_talks/method_dispatch.md), [video](http://confreaks.net/videos/680-rubyconf2011-message-in-a-bottle)
 
@@ -25,6 +40,20 @@ Gave talk at:
 * RubyConf 2011
 
 Was supposed to give talk at MagmaRails 2011, but conference was canceled.
+
+### Message In A Bottle (simpler version)
+
+[proposal](https://github.com/rkh/proposals/blob/master/proposed_talks/method_dispatch.md)
+
+Have not yet given this talk.
+
+### Sinatra: Past, Present, Future
+
+[proposal](https://github.com/rkh/proposals/blob/master/prepared_talks/sinatra.md)
+
+Gave talke at:
+
+* toster.ru {ruby} 2011
 
 ### Smalltalk On Rubinius - or How To Implement Your Own Programming Language
 
@@ -35,18 +64,8 @@ Gave talk at:
 
 * GoGaRuCo 2011
 
-### Beyond Ruby
+### We don't know HTTP
 
-[proposal](https://github.com/rkh/proposals/blob/master/prepared_talks/beyond_ruby.md)
+[proposal](https://github.com/rkh/proposals/blob/master/proposed_talks/http.md)
 
-Gave talk at:
-
-* RubyConf Argentina 2011
-
-### Sinatra: Past, Present, Future
-
-[proposal](https://github.com/rkh/proposals/blob/master/prepared_talks/sinatra.md)
-
-Gave talke at:
-
-* toster.ru {ruby} 2011
+Have not yet given this talk.
