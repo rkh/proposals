@@ -60,7 +60,7 @@ Have not yet given this talk.
 
 Gave talke at:
 
-* toster.ru {ruby} 2011
+* toster.ru {ruby} 2012
 
 ### Smalltalk On Rubinius - or How To Implement Your Own Programming Language
 
