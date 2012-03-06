@@ -47,6 +47,13 @@ Was supposed to give talk at MagmaRails 2011, but conference was canceled.
 
 Have not yet given this talk.
 
+### Sinatra in 8 lines, or How to do crazy stuff with Ruby
+
+[proposal](https://github.com/rkh/proposals/blob/master/proposed_talks/almost_sinatra.md)
+
+Have not yet given this talk.
+
+
 ### Sinatra: Past, Present, Future
 
 [proposal](https://github.com/rkh/proposals/blob/master/prepared_talks/sinatra.md)
