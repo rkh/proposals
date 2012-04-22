@@ -71,6 +71,14 @@ Gave talk at:
 
 * GoGaRuCo 2011
 
+### I Hear You Like Pull Requests
+
+[proposal](https://github.com/rkh/proposals/blob/master/prepared_talks/travis-pull-requests.md)
+
+Gave talk at:
+
+* RailsBerry 2012 (titled "Something About Pull Requests")
+
 ### We don't know HTTP
 
 [proposal](https://github.com/rkh/proposals/blob/master/proposed_talks/http.md)
