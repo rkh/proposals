@@ -71,6 +71,10 @@ Gave talk at:
 
 * GoGaRuCo 2011
 
+### 10k Projects, One CI
+
+[proposal](https://github.com/rkh/proposals/blob/master/proposed_talks/travis-architecture.md)
+
 ### I Hear You Like Pull Requests
 
 [proposal](https://github.com/rkh/proposals/blob/master/prepared_talks/travis-pull-requests.md)
