@@ -10,6 +10,7 @@ Want me to talk at some event? Drop me a note. Presentation code is on [GitHub](
 Gave talk at:
 
 * RubyConf Argentina 2011
+* EuRuKo 2012
 
 ### Fun With Rubinius
 
@@ -43,16 +44,20 @@ Was supposed to give talk at MagmaRails 2011, but conference was canceled.
 
 ### Message In A Bottle (simpler version)
 
-[proposal](https://github.com/rkh/proposals/blob/master/proposed_talks/method_dispatch.md)
+[proposal](https://github.com/rkh/proposals/blob/master/prepared_talks/method_dispatch_simple.md)
 
-Have not yet given this talk.
+Gave talk at:
+
+* RuLu 2012
+* BaRuCo 2012
 
 ### Sinatra in 8 lines, or How to do crazy stuff with Ruby
 
 [proposal](https://github.com/rkh/proposals/blob/master/proposed_talks/almost_sinatra.md)
 
-Have not yet given this talk.
+Gave talk at:
 
+* eurucamp 2012
 
 ### Sinatra: Past, Present, Future
 
@@ -85,6 +90,9 @@ Gave talk at:
 
 ### We don't know HTTP
 
-[proposal](https://github.com/rkh/proposals/blob/master/proposed_talks/http.md)
+[proposal](https://github.com/rkh/proposals/blob/master/prepared_talks/http.md)
 
-Have not yet given this talk.
+Gave talk at:
+
+* NordicRuby 2012
+* Arrrrrcamp 2012
