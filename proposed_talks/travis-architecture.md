@@ -1,6 +1,6 @@
-# 10k Projects, One CI
+# 20k Projects, One CI
 
-Imagine a single CI setup running tests for more than 10.000 projects. What would such a setup look like? How would you deal with all the load?
+Imagine a single CI setup running tests for more than 20.000 projects. What would such a setup look like? How would you deal with all the load?
 
 Those are exactly the issues the Travis CI team had to face when building a Distributed Continous Integrations System for the Open Source community.
 
