@@ -56,7 +56,7 @@ Note: *advanced* means you have a general understanding of how programming langu
 
 ### Sinatra in 8 lines, or How to do crazy stuff with Ruby
 
-[proposal](https://github.com/rkh/proposals/blob/master/proposed_talks/almost_sinatra.md)
+[proposal](https://github.com/rkh/proposals/blob/master/prepared_talks/almost_sinatra.md)
 
 20 to 30 min
 
