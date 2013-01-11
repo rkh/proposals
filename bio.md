@@ -2,4 +2,4 @@ As maintainer of Sinatra, Konstantin is an Open Source developer by heart. Ruby 
 
 In 2012, Konstantin received the Ruby Hero Award for his outstanding contributions to the community.
 
-He now currently works full time on Open Source projects at Travis CI.
+He now works on Open Source projects at Travis CI in Berlin, Germany.
