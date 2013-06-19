@@ -4,6 +4,8 @@ You might be used to being laughed at for your hatred of cookies, but fear not, 
 
 In this session we will be reminded why the cookies are our death sworn nemesis and get every cookie sympathizer back in line. We will see how there is no escaping from the threat that is a free roaming cookie and explore the utopia of a cookie free society.
 
+To do this, we pretend to be one of the misguided cookie lovers and try to protect our website against increasingly more complex attacks, without giving up on using cookies. Until we inevitable reach the point were it's simply no longer possible to offer a fully secure application.
+
 ## Private Description
 
 This talk is 100% Ruby free. It is about security in the web. It will explore how different attacks work, briefly dipping into the well know attacks and then getting to smarter attacks most websites tend to be vulnerable against.
